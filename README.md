@@ -57,7 +57,9 @@ A comprehensive look at the analysis leads to the following suggestions for the 
 2) The total rides / total drivers ratios for the three city types are : 
 
 Urban - 0.676 (More drivers than rides)
+
 Suburban - 1.276
+
 Rural - 1.603
 
 Given the fact that suburban and rural rides are more profitable than urban ones, the company should aim to bring the total rides / total drivers ratios closer to 1 for each city type. 
