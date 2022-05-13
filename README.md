@@ -2,7 +2,7 @@
 
 ## Purpose and Objectives 
 
-In this repository, ride sharing data was analyzed using pandas and Matplotlib to obtain insights according to city type. The analysis was then used to make suggestions about improving the business model and improve profit margins.
+In this repository, ride sharing data was analyzed using pandas and Matplotlib to obtain insights according to city type. The analysis was then used to make suggestions about improving the business model and profit margins.
 
 ## Analysis and Results
 
